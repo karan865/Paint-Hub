@@ -8,16 +8,24 @@
     padding: 0px 70px;
     background: #192a56;
     color: white;
-    align-items: center;
+    align-items: start;
 }
 .email p {
     padding-top: 12px;
+    font-size: 13px !important;
 }
 .email i{
     font-size: 15px;
     margin: 0px 5px;
 }
 
+nav{
+    align-items: start;
+    padding: 0px 70px;
+}
+nav h1{
+    font-size: 30px !important; 
+} 
 
 
 
